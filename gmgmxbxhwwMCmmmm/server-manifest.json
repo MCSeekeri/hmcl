@@ -1,0 +1,31 @@
+{
+  "name": "gmgmxbxhwwMCmmmm",
+  "author": "MCSeekeri",
+  "version": "0.0",
+  "description": "",
+  "fileApi": "https://hmcl.mcseekeri.com/gmgmxbxhwwMCmmmm",
+  "files": [
+    {
+      "path": "hmclversion.cfg",
+      "hash": "0f7452a81d8ac65d34c18b74f7f3ad87129b73c0"
+    },
+    {
+      "path": "packwiz-installer.jar",
+      "hash": "2e69f2d2cbd6948edc1e9346a653a364f33438d5"
+    },
+    {
+      "path": "packwiz-installer-bootstrap.jar",
+      "hash": "c78e76a8655157f65caff298bc0d022f9a93bd57"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.21.1"
+    },
+    {
+      "id": "neoforge",
+      "version": "21.1.168"
+    }
+  ]
+}
