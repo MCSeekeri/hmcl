@@ -1,21 +1,21 @@
 {
   "name": "FengServer X",
-  "author": "MCSeekeri",
-  "version": "1.2",
+  "author": "mcseekeri@outlook.com",
+  "version": "1.3",
   "description": "",
   "fileApi": "https://hmcl.mcseekeri.com/FengServerX",
   "files": [
     {
-      "path": "hmclversion.cfg",
-      "hash": "b0bb1426e17a4c59e8e8b749ecec7ae5816af84f"
+      "path": "packwiz-installer-bootstrap.jar",
+      "hash": "c78e76a8655157f65caff298bc0d022f9a93bd57"
     },
     {
       "path": "packwiz-installer.jar",
       "hash": "2e69f2d2cbd6948edc1e9346a653a364f33438d5"
     },
     {
-      "path": "packwiz-installer-bootstrap.jar",
-      "hash": "c78e76a8655157f65caff298bc0d022f9a93bd57"
+      "path": "hmclversion.cfg",
+      "hash": "b0bb1426e17a4c59e8e8b749ecec7ae5816af84f"
     }
   ],
   "addons": [
@@ -25,7 +25,7 @@
     },
     {
       "id": "neoforge",
-      "version": "21.1.148"
+      "version": "21.1.176"
     }
   ]
 }
