@@ -1,13 +1,13 @@
 {
   "name": "gmgmxbxhwwMCmmmm",
   "author": "MCSeekeri",
-  "version": "0.0",
+  "version": "0.1",
   "description": "",
   "fileApi": "https://hmcl.mcseekeri.com/gmgmxbxhwwMCmmmm",
   "files": [
     {
       "path": "hmclversion.cfg",
-      "hash": "0f7452a81d8ac65d34c18b74f7f3ad87129b73c0"
+      "hash": "1269a596d807a5bbeaf78c73bf176b983db90a10"
     },
     {
       "path": "packwiz-installer.jar",
@@ -25,7 +25,7 @@
     },
     {
       "id": "neoforge",
-      "version": "21.1.168"
+      "version": "21.1.218"
     }
   ]
 }
